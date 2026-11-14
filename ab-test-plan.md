@@ -14,7 +14,7 @@ Version B will get a higher yes rate because it tells students what they
 can do after clicking: compare local study spots.
 
 ## How I will run the test
-Model and version: GPT‑6.1 Sol (gpt-6.1-sol).
+Model and version: GPT‑6 
 I will use the same settings throughout and start each trial in a fresh
 conversation with memory off. Before any trials, I will randomly shuffle
 50 A and 50 B assignments and save the order. Each visitor will see only
